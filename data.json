@@ -1,0 +1,32 @@
+{
+  "results-1": [
+    {
+      "question": "¿Qué etiqueta es semánticamente correcta para el contenido principal?",
+      "option1": "main",
+      "option2": "section",
+      "option3": "header",
+      "correct": "main"
+    },
+    {
+      "question": "¿Qué etiqueta HTML nos sirve para incluir archivos JavaScript?",
+      "option1": " < br > ",
+      "option2": " < script > ",
+      "option3": "styles",
+      "correct": " < script > "
+    },
+    {
+      "question": "¿Qué significa DRY?",
+      "option1": "Don't repeat yellow",
+      "option2": "Don't repeat yourself",
+      "option3": "Don't recicle year",
+      "correct": "Don't repeat yourself"
+    },
+    {
+      "question": "¿Cuál es la versión actualmente vigente del estándar HTML?",
+      "option1": "HTML 3",
+      "option2": "HTML 5",
+      "option3": "HTML 6",
+      "correct": "HTML 5"
+    }
+  ]
+}
