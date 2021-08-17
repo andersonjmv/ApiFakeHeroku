@@ -1,6 +1,5 @@
 {
-  "results-1": [
-    {
+  "html": [{
       "question": "¿Qué etiqueta es semánticamente correcta para el contenido principal?",
       "option1": "main",
       "option2": "section",
@@ -27,6 +26,64 @@
       "option2": "HTML 5",
       "option3": "HTML 6",
       "correct": "HTML 5"
+    }
+  ],
+  "css": [{
+      "question": "¿Qué significa CSS?",
+      "option1": "Cascading Style Sheets",
+      "option2": "Cross-browser Style Sheet",
+      "option3": "Color Style Sheets",
+      "correct": "Cascading Style Sheets"
+    },
+    {
+      "question": "¿Cómo podemos añadir un comentario en una hoja de estilo CSS?",
+      "option1": " < !-- Comentario -- > ",
+      "option2": " /* Comentario */ ",
+      "option3": "styles",
+      "correct": " /* Comentario */ "
+    },
+    {
+      "question": "¿Para qué sirve font-family?",
+      "option1": "Cambiar tamaño de fuente",
+      "option2": "Añadir borde al texto.",
+      "option3": "Convertir cursiva el texto",
+      "correct": "Cambiar tamaño de fuente"
+    },
+    {
+      "question": "¿En qué sección esta el pie de página?",
+      "option1": " < header > ",
+      "option2": "< main >",
+      "option3": " < footer > ",
+      "correct": " < footer > "
+    }
+  ],
+  "js": [{
+      "question": "¿Qué instrucción es usada para devolver un valor de una función de JavaScript?",
+      "option1": "send",
+      "option2": "return",
+      "option3": "do",
+      "correct": "return"
+    },
+    {
+      "question": "¿Cómo se hace inserción del código JavaScript en HTML?",
+      "option1": " < script > y < / > ",
+      "option2": " < ?script > y < script? >",
+      "option3": " < styles > y < styles > ",
+      "correct": " < script > y < / > "
+    },
+    {
+      "question": "¿Cómo se terminan las instrucciones en Javascript?",
+      "option1": "Un punto y coma",
+      "option2": "Salto de línea",
+      "option3": "Con la sentencia End",
+      "correct": "Un punto y coma"
+    },
+    {
+      "question": "¿Cómo se concatenan cadenas de caracteres en Javascript?",
+      "option1": "& (ampersand)",
+      "option2": "+ (más)",
+      "option3": "- (guión)",
+      "correct": "+ (más)"
     }
   ]
 }
